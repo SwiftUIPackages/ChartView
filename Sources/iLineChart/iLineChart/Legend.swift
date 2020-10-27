@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-import iColors
+import iColor
 
 struct Legend: View {
     @ObservedObject var data: ChartData

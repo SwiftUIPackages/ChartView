@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-import iColors
+import iColor
 
 public struct BarChartRow : View {
     var data: [Double]

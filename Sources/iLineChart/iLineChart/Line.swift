@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-import iColors
+import iColor
 
 public struct Line: View {
     @ObservedObject var data: ChartData

@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import iColors
+import iColor
 
 public struct MagnifierRect: View {
     @Binding var currentNumber: Double
